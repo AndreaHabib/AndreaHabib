@@ -74,8 +74,6 @@
 <br></br>
 <br></br>
 
-![Andrea's github stats](https://github-readme-stats.vercel.app/api?username=AndreaHabib&show_icons=true&theme=dracula)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaHabib&layout=compact&langs_count=10)
 
 ## Most notable projects
