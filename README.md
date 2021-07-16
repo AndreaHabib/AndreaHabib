@@ -1,4 +1,4 @@
-### Hey! 👋
+# Hey! 👋
 
 ![Andrea's github stats](https://github-readme-stats.vercel.app/api?username=AndreaHabib&show_icons=true&theme=dracula)
 
