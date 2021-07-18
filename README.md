@@ -3,11 +3,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-AndreaHabib-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrea-habib-730941198/)](https://www.linkedin.com/in/andrea-habib-730941198/)
 
 <ul>
-  <li>Student at College of Staten Island, based in New York City</li>
-  <li>Currently working as volunteer backend developer at Develop for Good - Care Somalia.</li>
-  <li>Leading the tech community on my campus as GitHub Campus Expert and president of Hack-A-Project club!</li>
-  <li>Learning new frameworks and concepts.</li>
-  <li>Playing Yakuza 0, Rainbow Six Siege, and Elder Scrolls Online.</li>
+  <li>🏫 Student at College of Staten Island, based in New York City</li>
+  <li>💼 Currently working as volunteer backend developer at Develop for Good - Care Somalia.</li>
+  <li>⛳️ Leading the tech community on my campus as GitHub Campus Expert and president of Hack-A-Project club!</li>
+  <li>📖 Learning new frameworks and concepts.</li>
+  <li>🎮 Playing Yakuza 0, Rainbow Six Siege, and Elder Scrolls Online.</li>
 </ul>
 
 
