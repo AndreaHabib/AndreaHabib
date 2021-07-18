@@ -2,8 +2,17 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-AndreaHabib-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrea-habib-730941198/)](https://www.linkedin.com/in/andrea-habib-730941198/)
 
+Welcome! I am a student at College of Staten Island, based in New York City, and I am always passionate about writing code and learning new interesting subjects and topics, especially that has to do with tech, and here are some facts about me:
 
-### Checkout my awesome website 🤩
+<ul>
+  <li>Currently working as volunteer backend developer at Develop for Good - Care Somalia.</li>
+  <li>Leading the tech community on my campus as GitHub Campus Expert and president of Hack-A-Project club!</li>
+  <li>Learning new frameworks and concepts.</li>
+  <li>Playing Yakuza 0, Rainbow Six Siege, and Elder Scrolls Online.</li>
+</ul>
+
+
+### Also Checkout my awesome website 🤩
 <a href="https://andreahabib.netlify.app/" target="_blank" rel="noreferrer"><img alt="portfolio" style="max-width: 50px;" src="https://res.cloudinary.com/andreahabib/image/upload/c_thumb,w_200,g_face/v1625938581/andrea_l4gua5.png" /></a>
 
 ### And my skills in cool badges 😁
@@ -109,10 +118,12 @@
 
 <br></br>
 
+## GitHub Stats
 
 ![Andrea's github stats](https://github-readme-stats.vercel.app/api?username=AndreaHabib&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaHabib&layout=compact&langs_count=10)
+  
 
 ## Most notable projects
 
