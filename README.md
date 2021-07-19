@@ -2,6 +2,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-AndreaHabib-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrea-habib-730941198/)](https://www.linkedin.com/in/andrea-habib-730941198/)
 
+### About me 😊
+
   <p>🏫 Student at College of Staten Island, based in New York City</p>
   <p>💼 Currently working as volunteer backend developer at Develop for Good - Care Somalia.</p>
   <p>⛳️ Leading the tech community on my campus as GitHub Campus Expert and president of Hack-A-Project club!</p>
