@@ -119,11 +119,11 @@
 
 ## GitHub Stats
 
-![Andrea's github stats](https://github-readme-stats.vercel.app/api?username=AndreaHabib&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaHabib&layout=compact&langs_count=10)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AndreaHabib&show_icons=true&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaHabib&layout=compact&langs_count=10&theme=dracula"/>
+</p>
   
-
 ## Most notable projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreaHabib&repo=Final_Project_330_JAVA)](https://github.com/AndreaHabib/Final_Project_330_JAVA)
