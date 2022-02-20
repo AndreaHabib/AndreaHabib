@@ -144,19 +144,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AndreaHabib&show_icons=true&theme=dracula"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaHabib&layout=compact&langs_count=10&theme=dracula"/>
 </p>
-  
-## Most notable projects
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreaHabib&repo=Final_Project_330_JAVA&theme=dracula)](https://github.com/AndreaHabib/Final_Project_330_JAVA)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreaHabib&repo=The_blog&theme=dracula)](https://github.com/AndreaHabib/The_blog)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreaHabib&repo=GameStore&theme=dracula)](https://github.com/AndreaHabib/GameStore)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreaHabib&repo=gamesFaves&theme=dracula)](https://github.com/AndreaHabib/gamesFaves)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreaHabib&repo=ttp-team-2&theme=dracula)](https://github.com/AndreaHabib/ttp-team-2)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreaHabib&repo=portfolio&theme=dracula)](https://github.com/AndreaHabib/portfolio)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreaHabib&repo=Discord-bot&theme=dracula)](https://github.com/AndreaHabib/Discord-bot)
