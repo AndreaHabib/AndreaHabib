@@ -5,10 +5,10 @@
 ### About me 😊
 
   <p>🏫 Student at College of Staten Island, based in New York City</p>
-  <p>💼 Currently working as volunteer backend developer at Develop for Good - Care Somalia.</p>
+  <p>💼 Currently working as Frontend Engineer Intern at Lowe's Home Improvements</p>
   <p>⛳️ Leading the tech community on my campus as GitHub Campus Expert and president of Hack-A-Project club!</p>
   <p>📖 Learning new frameworks and concepts.</p>
-  <p>🎮 Playing Yakuza 0, Rainbow Six Siege, and Elder Scrolls Online.</p>
+  <p>🎮 Playing Valorant, Assassin's Creed Valhalla, and Elder Scrolls Online.</p>
 
 
 ### Also Checkout my awesome website 🤩
