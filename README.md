@@ -21,7 +21,7 @@
   <th>Tools, Frameworks, Programming Languages</th>
   <tr>
     <td>
-      <p>Operanting System</p>
+      <p>Operating Systems</p>
     </td>
     <td>
       <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
